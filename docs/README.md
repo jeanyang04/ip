@@ -4,6 +4,8 @@
 
 Skibidi is a task management application that helps you keep track of your tasks, deadlines, and events. You can add tags to your tasks for better organization and search for tasks based on these tags.
 
+![Skibidi bot](./Ui.png)
+
 ## Features
 
 ### Adding Tasks
